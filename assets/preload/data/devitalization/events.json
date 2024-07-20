@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "alleyway",
+		"player1": "bf-4-2",
+		"player2": "mom-valor",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				2526.31578947368,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Devitalization"
+	}
+}
