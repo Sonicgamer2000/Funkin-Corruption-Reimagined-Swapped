@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funLogo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumping0000" x="10" y="10" width="826" height="617" frameX="-21" frameY="-15" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0001" x="846" y="10" width="868" height="648"/>
+	<SubTexture name="logo bumping0002" x="846" y="10" width="868" height="648"/>
+	<SubTexture name="logo bumping0003" x="10" y="668" width="842" height="629" frameX="-13" frameY="-9" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0004" x="10" y="668" width="842" height="629" frameX="-13" frameY="-9" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0005" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0006" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0007" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0008" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0009" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0010" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0011" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0012" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0013" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+	<SubTexture name="logo bumping0014" x="862" y="668" width="836" height="624" frameX="-16" frameY="-12" frameWidth="868" frameHeight="648"/>
+</TextureAtlas>
