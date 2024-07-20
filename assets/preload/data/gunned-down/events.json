@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "philly",
+		"player1": "bf-pico2",
+		"player2": "pico2",
+		"player3": null,
+		"events": [
+			[
+				11700,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-pico2"
+					]
+				]
+			],
+			[
+				11900,
+				[
+					[
+						"Play Animation",
+						"gf-reload",
+						"dad"
+					]
+				]
+			],
+			[
+				11937.5,
+				[
+					[
+						"Play Animation",
+						"reach",
+						"gf"
+					]
+				]
+			],
+			[
+				12750,
+				[
+					[
+						"Play Animation",
+						"gf-shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				12775,
+				[
+					[
+						"Play Animation",
+						"gf-dies-lmao",
+						"GF"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31100,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"dad"
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pico",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Gunned-Down"
+	}
+}
